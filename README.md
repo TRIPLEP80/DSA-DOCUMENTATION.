@@ -6,3 +6,6 @@ I have an impactive moment with my Data Analysis Facilitators ranging from Excel
 Tools
 Excel for tables [download here](https://microsoft.com)
 - data cleaning
+
+
+
